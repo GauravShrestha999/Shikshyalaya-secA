@@ -1,0 +1,19 @@
+#mainTitle{
+    color: red;
+    font-size:60px;
+    font-style:italic;
+    font-weight:bold;
+}
+#secondTitle{
+    color:blue;
+    font-size:50px;
+    font-weight:bold;
+}
+.paragraph{
+    color:aqua;
+    font-size:60px;
+    font-weight:bold;
+}
+.body{
+    background-color: green;
+}
